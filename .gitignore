@@ -1,3 +1,9 @@
+# I don't know what this is...
+.DS_Store
+
+# Rating CSV for testing
+ratings.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
